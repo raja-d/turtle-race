@@ -66,7 +66,7 @@ tim.right(360)
 
 # turtle four
 sid = Turtle()
-sid.color('torquoise')
+sid.color('turquoise')
 sid.shape('turtle')
 
 sid.penup()
